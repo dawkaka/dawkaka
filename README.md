@@ -1,7 +1,5 @@
 ### Hi there 👋
-<br />
-
-Software Engineer from +233 🇬🇭
+I'm Dawkaka, a Software Engineer from +233 🇬🇭
 
 **About me**
 

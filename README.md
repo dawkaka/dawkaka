@@ -5,6 +5,6 @@ I'm Dawkaka, a Software Engineer from +233 🇬🇭
 
 - 💼 Software Engineer at [APIToolkit](https://apitoolkit.io/)
 
-- ❤️ I dream in TypeScript, Go, and Rust.
+- 👷 I dream in TypeScript, Go, and Rust.
 
 - 💬 Ask me about anything [here](https://github.com/dawkaka/dawkaka/issues)

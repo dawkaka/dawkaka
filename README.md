@@ -6,5 +6,5 @@ I'm Dawkaka, a Software Engineer from +233 🇬🇭
 - 💼 Software Engineer at [APIToolkit](https://apitoolkit.io/)
 
 - 👷 I dream in TypeScript and Go.
-- Learning zig
+- 📚 Learning Zig
 - 💬 Ask me about anything [here](https://github.com/dawkaka/dawkaka/issues)
